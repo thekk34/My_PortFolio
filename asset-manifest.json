@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/My_PortFolio/static/css/main.a0cbd2b2.css",
+    "main.js": "/My_PortFolio/static/js/main.d4974095.js",
+    "static/media/EventManagement.png": "/My_PortFolio/static/media/EventManagement.7f823d60eb2ebedba47d.png",
+    "static/media/weather_forecast.png": "/My_PortFolio/static/media/weather_forecast.b8e9ae409e379b430693.png",
+    "static/media/Oregg.png": "/My_PortFolio/static/media/Oregg.d5c4a4c79e57f290e3ad.png",
+    "static/media/Karunesh_web_update.pdf": "/My_PortFolio/static/media/Karunesh_web_update.553b4602cec7abc75839.pdf",
+    "static/media/portfolio.png": "/My_PortFolio/static/media/portfolio.4b07a9db053224f47036.png",
+    "static/media/home-main.svg": "/My_PortFolio/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/profile2.jpg": "/My_PortFolio/static/media/profile2.d9fd79a8ee763ea24e65.jpg",
+    "static/media/profile1.jpg": "/My_PortFolio/static/media/profile1.e688e6c465fe9bbee1af.jpg",
+    "static/media/To_do.png": "/My_PortFolio/static/media/To_do.e21e68ec23a7afc67663.png",
+    "static/media/home-bg.jpg": "/My_PortFolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/KK_logo.jpg": "/My_PortFolio/static/media/KK_logo.879194887d63bf9dbfbc.jpg",
+    "static/media/pre.svg": "/My_PortFolio/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/My_PortFolio/index.html",
+    "main.a0cbd2b2.css.map": "/My_PortFolio/static/css/main.a0cbd2b2.css.map",
+    "main.d4974095.js.map": "/My_PortFolio/static/js/main.d4974095.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a0cbd2b2.css",
+    "static/js/main.d4974095.js"
+  ]
+}
