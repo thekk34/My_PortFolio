@@ -23,7 +23,7 @@ const About = () => {
                  and I'm from <span className="yellow"> Lucknow, UttarPradesh, India.</span>
                 <br />
                 <br />
-                I am currently a 4th-year undergraduate in the Electronics  and Communication Engineering Branch at Patna University.
+                I am currently a 4th-year undergraduate in the Electronics  and Communication Engineering Branch at NIT Patna .
                 <br />
                 <br />
                   As a
@@ -32,7 +32,7 @@ const About = () => {
                   <br />
                   <br />I am proficient in
                     <b className="yellow"> C++ </b>
-                    as well as have knowledge in programming languages such as C, Python, Javascript
+                    as well as have knowledge in programming languages such as React, Javascript
                   <b className="yellow"> and Solidity.</b>
                   <br />
                   <br />

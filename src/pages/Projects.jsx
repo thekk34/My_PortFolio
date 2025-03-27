@@ -58,6 +58,8 @@ const Projects = () => {
               isBlog={false}
               title="Event Management"
               description="An Event Management app in React helps users create, manage, and track events efficiently using useState and useEffect. It can include features like scheduling, reminders, and RSVP management.."
+              ghLink="https://github.com/thekk34/Event_Management"
+              demoLink="https://thekk34.github.io/Event_Management/"
               
             />
           </Col>
